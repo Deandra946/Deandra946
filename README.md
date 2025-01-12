@@ -47,3 +47,9 @@ Feel free to explore my repositories and connect with me if you find something i
 ---
 
 ⭐ **Thank you for visiting my GitHub profile! Don't forget to leave a star if you like my projects.** 😊
+<p align="left">
+<a href="https://github.com/Deandra946">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deandra946&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deandra946&layout=compact&theme=algolia"/>
+</a>
+</p>

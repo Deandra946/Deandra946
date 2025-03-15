@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h1 align="center">🎮 Welcome to My Game Dev Hub! 🕹️</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" alt="Game Dev">
+</p>
+
 <!--
 **Deandra946/Deandra946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,11 +60,7 @@ Feel free to explore my repositories and connect with me if you find something i
 </a>
 </p>
 
-<h1 align="center">🎮 Welcome to My Game Dev Hub! 🕹️</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" alt="Game Dev">
-</p>
 
 <h2>🚀 About Me</h2>
 <p>Hey there! I'm <b>Deandra</b>, a passionate developer who loves coding and gaming. I build awesome projects, experiment with new tech, and bring creative ideas to life! Whether it's web development, game design, or IoT, I'm always up for a challenge! 💻🎮</p>
